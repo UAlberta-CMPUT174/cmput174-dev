@@ -1,4 +1,5 @@
 # CMPUT 174 Development Environment
+This repository contains everything you need to create a standard development environment for your CMPUT 174 assignments. In addition to the development environment, a standard project structure has also been provided in which to write your solutions. Please refer to the [instructions](#instructions) below to setup your environment.
 
 # Instructions
 
