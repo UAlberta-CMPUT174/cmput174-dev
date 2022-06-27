@@ -9,7 +9,7 @@ RUN apk add --update --no-cache --virtual .tmp-build-deps \
     && apk add libffi-dev
 
 # Copy requirements.txt From Host
-COPY requirements.txt ./
+COPY requirements.txt .
 
 # Install Requirements
 RUN pip install --no-cache-dir -r requirements.txt
