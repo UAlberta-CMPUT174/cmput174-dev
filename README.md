@@ -3,8 +3,8 @@ This repository contains everything you need to create a standard development en
 
 # Instructions
 
-1. Install Docker.
-2. Install Visual Studio Code.
+1. Install Docker. You can find installation instructions for macOS, Windows, and Linux [here](https://docs.docker.com/get-docker/).
+2. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
 3. Open Visual Studio Code.
 4. Install the Remote-Containers extension in Visual Studio Code.
 5. Click the blue icon in the bottom-left of the Visual Studio Code window.
