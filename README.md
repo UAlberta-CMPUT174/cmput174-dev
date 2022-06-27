@@ -13,3 +13,19 @@ This repository contains everything you need to create a standard development en
 6. Click the blue icon in the bottom-left of the Visual Studio Code window.
 7. When the menu that pops up, select `Clone Repository In Container Volume`.
 8. Enter the URL of this repositiry (https://github.com/UAlberta-CMPUT174/cmput174-dev) in the pop-up window.
+
+# Video: Creating The Development Environment
+https://user-images.githubusercontent.com/61667893/175980145-bfdaf863-7d97-4300-983a-d4974934462c.mp4
+
+# Video: Setting The Python Interpreter
+
+https://user-images.githubusercontent.com/61667893/175980646-f1b79fb6-9170-47c6-ac29-3210b185eeff.mp4
+
+# Video: Running Scripts In Visual Studio Code
+
+https://user-images.githubusercontent.com/61667893/175980694-9c32d069-19c4-4669-9bcb-fd6938374b9e.mp4
+
+# Video: Restoring A Previous Session
+
+https://user-images.githubusercontent.com/61667893/175980788-d4ee1027-a721-48d4-a633-30daed182ac5.mp4
+
