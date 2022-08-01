@@ -8,18 +8,19 @@ This repository contains everything you need to create a standard development en
 4. Install Docker Desktop. Instructions can be found [here](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers#install-docker-desktop).
 
 # Install Docker (Linux & Mac)
-1. Install Docker. You can find installation [here](https://docs.docker.com/get-docker/).
+1. Install Docker. You can find installation instructions [here](https://docs.docker.com/get-docker/).
 
 # Setup Your Development Environment
-2. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
-3. Open Visual Studio Code.
-4. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio.
-6. Click the blue icon in the bottom-left of the Visual Studio Code window.
-7. In the menu that pops up, select `Clone Repository In Container Volume`.
-8. Enter the URL of this repository (https://github.com/UAlberta-CMPUT174/cmput174-dev) in the pop-up window.
+1. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
+2. Open Visual Studio Code.
+3. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio.  
+5. Click the blue icon in the bottom-left of the Visual Studio Code window.
+6. In the menu that pops up, select `Clone Repository In Container Volume`.
+7. Enter the URL of this repository (https://github.com/UAlberta-CMPUT174/cmput174-dev) in the pop-up window.
 
 # Video: Installing Remote-Containers
 https://user-images.githubusercontent.com/61667893/175984416-b23887a3-6bed-45ad-80d7-83fd6c62d035.mp4
+
 
 # Video: Creating The Development Environment
 https://user-images.githubusercontent.com/61667893/175980145-bfdaf863-7d97-4300-983a-d4974934462c.mp4
