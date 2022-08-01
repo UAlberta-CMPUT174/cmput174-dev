@@ -7,7 +7,7 @@ This repository contains everything you need to create a standard development en
 2. Install WSL2 by running the command ```wsl --install``` in Windows PowerShell.
 3. Once installation is complete, reboot your device.
 4. Upon reboot, an Ubuntu terminal should open automatically. If not, select "Ubuntu" from the start menu.
-5. You should see the message "Installing, this may take a few minutes...". Upon completion (this may take a while) you will be promted to set your username and password.
+5. You should see the message "Installing, this may take a few minutes...". Upon completion (this may take a while) you will be prompted to set your username and password.
 6. Update your Linux packages by running ```sudo apt update && sudo apt upgrade```
 7. Install Docker Desktop by following these [instructions](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers#install-docker-desktop).
 8. To confirm your installation was successful, run the following commands in either Windows Powershell or an Ubuntu Terminal:
