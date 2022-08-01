@@ -19,7 +19,7 @@ docker run hello-world
 # Step 1: Install Docker (Linux & Mac)
 1. Installation instructions for both Linux and Mac can be found [here](https://docs.docker.com/get-docker/).
 
-# Step 2: Create Your Environment (Linux, Windows, Mac)
+# Step 2: Create Environment (Linux, Windows, Mac)
 1. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
 2. Open Visual Studio Code.
 3. Refer to the video "Installing Remote-Containers" below for a demonstration of the following instructions. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio.  
