@@ -2,10 +2,13 @@
 This repository contains everything you need to create a standard development environment for your CMPUT 174 assignments. In addition to the development environment, a standard project structure has also been provided in which to write your solutions. Please refer to the instructions and videos below to setup your environment.
 
 # Install Docker (Windows)
-1. Install WSL2 by running the command ```wsl --install``` in your Windows PowerShell.
-2. Open your Linux distribution and set your username and password.
-3. Update your Linux packages by running ```sudo apt update && sudo apt upgrade```
-4. Install Docker Desktop. Instructions can be found [here](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers#install-docker-desktop).
+1. Ensure that virtualization has been enabled on your device. To confirm that virtualization is enabled or to enable if not, follow these [instructions](https://www.virtualmetric.com/blog/how-to-enable-hardware-virtualization).
+1. Open the Windows Powershell as an Administrator by typing "PowerShell" into the Windows search bar, right-clicking "Windows PowerShell", and selecting "Run as administrator".
+2. Install WSL2 by running the command ```wsl --install``` in Windows PowerShell.
+3. Once installation is complete, reboot your device.
+4. Open your Linux distribution and set your username and password.
+4. Update your Linux packages by running ```sudo apt update && sudo apt upgrade```
+5. Install Docker Desktop. Instructions can be found [here](https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers#install-docker-desktop).
 
 # Install Docker (Linux & Mac)
 1. Install Docker. You can find installation instructions [here](https://docs.docker.com/get-docker/).
