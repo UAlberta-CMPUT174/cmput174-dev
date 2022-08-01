@@ -1,7 +1,7 @@
 # CMPUT 174 Development Environment
 This repository contains everything you need to create a standard development environment for your CMPUT 174 assignments. In addition to the development environment, a standard project structure has also been provided in which to write your solutions. Please refer to the instructions and videos below to setup your environment.
 
-# Step One: Install Docker (Windows)
+# Step 1: Install Docker (Windows)
 1. Ensure that virtualization has been enabled on your device. To confirm that virtualization is enabled or to enable if not, follow these [instructions](https://www.virtualmetric.com/blog/how-to-enable-hardware-virtualization).
 1. Open the Windows Powershell as an Administrator by typing "PowerShell" into the Windows search bar, right-clicking "Windows PowerShell", and selecting "Run as administrator".
 2. Install WSL2 by running the command ```wsl --install``` in Windows PowerShell.
@@ -16,10 +16,10 @@ docker --version
 docker run hello-world
 ```
 
-# Step One: Install Docker (Linux & Mac)
+# Step 1: Install Docker (Linux & Mac)
 1. Installation instructions for both Linux and Mac can be found [here](https://docs.docker.com/get-docker/).
 
-# Step Two: Create Your Environment (Linux, Windows, Mac)
+# Step 2: Create Your Environment (Linux, Windows, Mac)
 1. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
 2. Open Visual Studio Code.
 3. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio. Refer to the video "Installing Remote-Containers" below for a demonstration.  
