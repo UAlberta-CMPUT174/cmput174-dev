@@ -1,7 +1,7 @@
 # CMPUT 174 Development Environment
 This repository contains everything you need to create a standard development environment for your CMPUT 174 assignments. In addition to the development environment, a standard project structure has also been provided in which to write your solutions. Please refer to the instructions and videos below to setup your environment.
 
-# Install Docker (Windows)
+# Step One: Install Docker (Windows)
 1. Ensure that virtualization has been enabled on your device. To confirm that virtualization is enabled or to enable if not, follow these [instructions](https://www.virtualmetric.com/blog/how-to-enable-hardware-virtualization).
 1. Open the Windows Powershell as an Administrator by typing "PowerShell" into the Windows search bar, right-clicking "Windows PowerShell", and selecting "Run as administrator".
 2. Install WSL2 by running the command ```wsl --install``` in Windows PowerShell.
@@ -16,20 +16,18 @@ docker --version
 docker run hello-world
 ```
 
-# Install Docker (Linux & Mac)
+# Step One: Install Docker (Linux & Mac)
 1. Installation instructions for both Linux and Mac can be found [here](https://docs.docker.com/get-docker/).
 
-# Setup Your Development Environment
+# Step Two: Setup Your Development Environment (Linux, Windows, Mac)
 1. Install Visual Studio Code. Follow this [link](https://code.visualstudio.com/download) to download the installer for macOS, Windows, and Linux.
 2. Open Visual Studio Code.
-3. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio.  
-5. Click the blue icon in the bottom-left of the Visual Studio Code window.
-6. In the menu that pops up, select `Clone Repository In Container Volume`.
-7. Enter the URL of this repository (https://github.com/UAlberta-CMPUT174/cmput174-dev) in the pop-up window.
+3. Install the `Remote-Containers` extension for Visual Studio Code. To do so, select the `Extensions` menu from the panel on the left side of the window and enter `Remote Containers` in the search bar. Finally, click the `Install` button to add the extension to Visual Studio. Refer to the video "Installing Remote-Containers" below for a demonstration.  
+5. Click the icon in the bottom-left of the window. In the menu that pops up, select `Clone Repository In Container Volume` and enter the URL of this repository (https://github.com/UAlberta-CMPUT174/cmput174-dev). Refer to the video "Creating The Development Environment" below for a demonstration. Note that the icon may be a different color on your machine.
+6. For a demonstration of setting the Python interpreter (should be set by default), running scripts, or restoring a previous session after closing Visual Studio Code, refer to the corresponding videos below.
 
 # Video: Installing Remote-Containers
 https://user-images.githubusercontent.com/61667893/175984416-b23887a3-6bed-45ad-80d7-83fd6c62d035.mp4
-
 
 # Video: Creating The Development Environment
 https://user-images.githubusercontent.com/61667893/175980145-bfdaf863-7d97-4300-983a-d4974934462c.mp4
