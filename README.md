@@ -16,7 +16,6 @@ docker run hello-world
 ```
 
 Follow these [instructions](https://www.virtualmetric.com/blog/how-to-enable-hardware-virtualization) or seek TA's help if you see the following error message: _Please enable the Virtual Machine Platform Windows feature and ensure virtualization is enabled in the BIOS.Ensure that virtualization has been enabled on your device._
-```
 
 # Step 1: Install Docker (Linux & Mac)
 1. Installation instructions for both Linux and Mac can be found [here](https://docs.docker.com/get-docker/).
